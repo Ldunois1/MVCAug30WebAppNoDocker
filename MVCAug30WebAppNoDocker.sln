@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCAug30WebAppNoDocker", "MVCAug30WebAppNoDocker.csproj", "{EB155A03-FCD8-4A8C-8A8A-8F47CC2634CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB155A03-FCD8-4A8C-8A8A-8F47CC2634CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB155A03-FCD8-4A8C-8A8A-8F47CC2634CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB155A03-FCD8-4A8C-8A8A-8F47CC2634CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB155A03-FCD8-4A8C-8A8A-8F47CC2634CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45CEE82E-922A-4B52-9085-7D06B0B80D06}
+	EndGlobalSection
+EndGlobal
